@@ -1,0 +1,9 @@
+Download the data set on the last 7 weeks worth of earthquakes from the USGS
+here:
+
+link
+
+Perform an analysis relating earthquake magnitude to earthquake depth. What
+can you infer about the relashionship between these two quantities? Be sure to
+account  for other variables that may play a role  in the relationship between
+these two quantities.
